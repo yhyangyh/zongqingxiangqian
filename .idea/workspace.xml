@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fba409e2-5a9b-4e5b-9bd8-0aa3c72559e5" name="Default" comment="" />
+    <list default="true" id="fba409e2-5a9b-4e5b-9bd8-0aa3c72559e5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,11 +78,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="description" pinned="false" current-in-tab="true">
+      <file leaf-file-name="description" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test16/description">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="60">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="description" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test18/description">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test18/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test16/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -99,6 +128,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +207,6 @@
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test05/SolutionYh.java" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test05/description" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test06/SolutionYh.java" />
-        <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test06/description" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test09/SolutionYh.java" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test09/description" />
@@ -181,7 +222,12 @@
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test11/description" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test15/description" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test15/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test16/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test16/description" />
+        <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test18/description" />
+        <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test18/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aimToOffer/test18/Solution.java" />
       </list>
     </option>
   </component>
@@ -245,6 +291,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="test06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zongqingxiangqian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zongqingxiangqian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="test18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zongqingxiangqian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zongqingxiangqian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -263,6 +327,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aimToOffer.test18" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -404,12 +473,12 @@
       <workItem from="1592394640218" duration="4223000" />
       <workItem from="1592533778130" duration="3515000" />
       <workItem from="1592636459266" duration="7697000" />
-      <workItem from="1592878731539" duration="2527000" />
+      <workItem from="1592878731539" duration="3540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21714000" />
+    <option name="totallyTimeSpent" value="22727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -476,36 +545,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test10/description">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test10/SolutionYh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="YarmPluginDependencyAnalyzer" />
-      <provider editor-type-id="YarmPluginDependencyUpdater" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test02/description">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -697,13 +736,6 @@
       <provider editor-type-id="YarmPluginDependencyAnalyzer" />
       <provider editor-type-id="YarmPluginDependencyUpdater" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test06/SolutionYh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -846,10 +878,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test16/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test16/description">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="60">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test18/description">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test18/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test06/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aimToOffer/test18/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>
